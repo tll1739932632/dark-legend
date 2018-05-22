@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "ggg.data.unityweb",
+"asmCodeUrl": "ggg.asm.code.unityweb",
+"asmMemoryUrl": "ggg.asm.memory.unityweb",
+"asmFrameworkUrl": "ggg.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
